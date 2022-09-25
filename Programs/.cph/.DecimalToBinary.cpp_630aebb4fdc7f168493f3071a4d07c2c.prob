@@ -1,0 +1,1 @@
+{"name":"Local: DecimalToBinary","url":"c:\\Development\\CPP\\Learning\\Programs\\DecimalToBinary.cpp","tests":[{"id":1654114132430,"input":"69","output":"1000101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Development\\CPP\\Learning\\Programs\\DecimalToBinary.cpp","group":"local","local":true}

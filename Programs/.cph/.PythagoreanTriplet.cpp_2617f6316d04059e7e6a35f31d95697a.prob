@@ -1,0 +1,1 @@
+{"name":"Local: PythagoreanTriplet","url":"c:\\Development\\CPP\\Learning\\Programs\\PythagoreanTriplet.cpp","tests":[{"id":1653936368460,"input":"5 4 5","output":"Not a Pythagorean Triplet"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Development\\CPP\\Learning\\Programs\\PythagoreanTriplet.cpp","group":"local","local":true}
